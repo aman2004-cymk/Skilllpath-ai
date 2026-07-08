@@ -218,7 +218,7 @@ SkillPath AI demonstrates the integration of Artificial Intelligence with full-s
 
 **Type:** Full-Stack AI Web Application
 
-**Developer:** *Your Name*
 
-**License:** MIT
+
+
 
